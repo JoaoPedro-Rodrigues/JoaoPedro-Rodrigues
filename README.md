@@ -6,7 +6,7 @@ Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE). Tenho te
 
 Sou apaixonada por tecnologia,gosto muito de desenvolver sistemas e progmar.
 <p align="left">
-    <a href="https://github.com/graziela-barros?tab=repositories&sort=stargazers">
+    <a href="https://github.com/JoaoPedro-Rodrigues?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
