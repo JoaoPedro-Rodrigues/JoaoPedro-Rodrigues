@@ -10,7 +10,7 @@ Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE). Tenho te
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/graziela-barros?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedro-Rodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     
