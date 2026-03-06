@@ -1,4 +1,4 @@
-# 👩‍💻 João Pedro
+# 👨‍💻 João Pedro
 
 **Desenvolvedor FullStack**
 
