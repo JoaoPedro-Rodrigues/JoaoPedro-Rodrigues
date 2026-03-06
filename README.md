@@ -4,7 +4,7 @@
 
 Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE). Tenho tecnico em Desenvolvimento de sistemas pelo SENAI.
 
-Sou apaixonada por tecnologia,gosto muito de desenvolver sistemas e progmar.
+ gosto muito de desenvolver sistemas e progmar.
 <p align="left">
     <a href="https://github.com/JoaoPedro-Rodrigues?tab=repositories&sort=stargazers">
         <img 
