@@ -1,6 +1,6 @@
 # 👨‍💻 João Pedro
 
-**Desenvolvedor FullStack**
+**Profissional em Desenvolvimento...**
 
 Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE). Tenho tecnico em Desenvolvimento de sistemas pelo SENAI.
 
