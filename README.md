@@ -2,9 +2,11 @@
 
 **Profissional em Desenvolvimento...**
 
-Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE). Tenho tecnico em Desenvolvimento de sistemas pelo SENAI.
+Meu nome é João Pedro, tenho 17 anos e sou natural de Fortaleza (CE).
+Estou cursando Analise e Desenvolvimento de Sistema na Universidade Uninassau(CE).
+Tenho tecnico em Desenvolvimento de sistemas pelo SENAI.
 
- gosto muito de desenvolver sistemas e progmar.
+ Desenvolvo sistemas, so chamar no Insta ou Pv.
 <p align="left">
     <a href="https://github.com/JoaoPedro-Rodrigues?tab=repositories&sort=stargazers">
         <img 
